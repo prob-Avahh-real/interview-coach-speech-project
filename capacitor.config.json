@@ -1,0 +1,11 @@
+{
+  "appId": "com.skat.interviewcoachspeech",
+  "appName": "面试语音陪练",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
